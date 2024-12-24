@@ -1,0 +1,10 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Dependency lock file
+Pipfile.lock
+
+# VS Code settings and debugger
+.vscode/
